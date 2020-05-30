@@ -1,0 +1,7 @@
+{
+  "name": "WildWalk-UI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
